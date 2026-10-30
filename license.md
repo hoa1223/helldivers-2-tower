@@ -151,4 +151,4 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Helldivers 2 · Updated 2026-10-29 · Shared under the MIT License*
+*Helldivers 2 · Updated 2026-10-30 · Shared under the MIT License*
